@@ -1,0 +1,39 @@
+.App{
+    margin:0;
+    height:100%;
+    
+}
+
+.App-header{
+    text-align: center;
+    color:azure;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(12, 14, 29);
+}
+
+.Para{
+    text-align: center;
+    font-size: large;
+    background-color: rgb(255, 255, 255);
+}
+
+.images{
+margin-left: 35vh;
+
+}
+
+img{
+    padding: 2vh;
+    width: 40vh;
+  
+}
+
+.App-link{
+    text-align: center;
+    
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
